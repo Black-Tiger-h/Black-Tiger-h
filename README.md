@@ -4,7 +4,7 @@
   📚 Artificial intelligence from HanYang(ERICA)
   </p>
 
-  <p I am interested in developing backend and machine learning deep learning autonomous driving.
+  I am interested in developing backend and machine learning deep learning autonomous driving.
  </p>
 </p>
 
