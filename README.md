@@ -1,6 +1,7 @@
 
-<h2 align="center">Hello there! My name is HYEON WOO 👋🤓</h2>
-<p align="center">I'm currently a student pursuing my Artificial intelligence from hanyang (erica)
+<h2 align="center"정현우"👋🤓</h2>
+<p align="center">
+  📚 Artificial intelligence from HanYang(ERICA)
   I am interested in developing backend and machine learning deep learning autonomous driving.
 
 </p>
