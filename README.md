@@ -2,8 +2,10 @@
 <h2 align="center"정현우"👋🤓</h2>
 <p align="center">
   📚 Artificial intelligence from HanYang(ERICA)
-  I am interested in developing backend and machine learning deep learning autonomous driving.
+  </p>
 
+  <pI am interested in developing backend and machine learning deep learning autonomous driving.
+ </p>
 </p>
 
 <p align=center>
