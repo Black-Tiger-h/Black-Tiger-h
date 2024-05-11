@@ -24,9 +24,6 @@
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/java%20-%23F05033.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=Terabyte17&show_icons=true&theme=radical">
-</p>
 
 
 
