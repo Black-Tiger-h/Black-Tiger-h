@@ -1,5 +1,10 @@
 
-<h2 align="center"정현우"👋🤓</h2>
+<h2 align="center"정현우 👋🤓</h2>
+  
+<p align="center"
+ Shoot to the moon, even if you miss it, you'll be a star 🌙⭐️
+ </p>
+
 <p align="center">
   📚 Artificial intelligence from HanYang(ERICA)
   </p>
