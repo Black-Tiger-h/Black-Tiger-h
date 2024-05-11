@@ -3,15 +3,14 @@
 <p align="center">I'm currently a student pursuing my Artificial intelligence from hanyang (erica)
   I am interested in developing backend and machine learning deep learning autonomous driving.
 
-
 </p>
 
 <p align=center>
-  <a href="https://github.com/Terabyte17">
-    <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/Black-Tiger-h">
+    <img src="https://badges.pufler.dev/visits/Black-Tiger-h/Black-Tiger-h?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Terabyte17?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/Black-Tiger-h?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/Black-Tiger-h?style=flat-square&color=black&logo=github">
   </a>
 </p>
 <p align="center">
