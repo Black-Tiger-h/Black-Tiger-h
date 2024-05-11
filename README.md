@@ -1,8 +1,9 @@
 
 <h2 align="center">Hello there! My name is HYEON WOO 👋🤓</h2>
-<p align="center">I'm currently a student pursuing my Artificial intelligence from hanyang (erica),I am interested in developing backend and machine learning deep learning autonomous driving.
+<p align="center">I'm currently a student pursuing my Artificial intelligence from hanyang (erica)
+  I am interested in developing backend and machine learning deep learning autonomous driving.
 
-<p align="center"><a href="https://twitter.com/terabyte_17"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/yash-sahijwani-b36aa3149/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/yash_sahijwani/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+
 </p>
 
 <p align=center>
