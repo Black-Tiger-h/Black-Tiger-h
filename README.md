@@ -12,7 +12,7 @@
   </p>
 
   I am interested in developing backend and machine learning deep learning autonomous driving.
- </p>
+
 </p>
 
 <p align=center>
