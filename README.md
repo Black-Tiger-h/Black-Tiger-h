@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  Hyeon Woo 👋🤓
+  정현우 👋🤓
   </h2>
   
 <p align="center">
