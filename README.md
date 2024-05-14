@@ -11,9 +11,7 @@
   📚 Artificial intelligence from HanYang(ERICA)
   </p>
 
-  I am interested in developing backend and machine learning deep learning autonomous driving.
 
-</p>
 
 <p align=center>
   <a href="https://github.com/Black-Tiger-h">
